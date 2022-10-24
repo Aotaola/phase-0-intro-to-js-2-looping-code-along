@@ -206,7 +206,7 @@ to create a thank you card creator.
 In `index.js`, build a function named `writeCards()` that accepts two arguments:
 an array of string names, and an event name. Create a `for` loop with a counter
 that starts at `0` and increments at the end of each loop. The `for` loop should
-stop once it has iterated over the length of the array.
+stop once it has iterated over the length of the array. *******
 
 As with our previous `wrapGifts()` function, you will create a custom message
 for each name inside the loop. Unlike that example, however, instead of simply
